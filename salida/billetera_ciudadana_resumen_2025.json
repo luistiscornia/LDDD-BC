@@ -1,0 +1,12 @@
+{
+  "ejercicio": "2025",
+  "ciudad": "Municipalidad de Rosario",
+  "poblacion_estimada": 1030000,
+  "presupuesto_total_pesos": 908841229000.0,
+  "gasto_total_devengado_pesos": 910328000000.0,
+  "porcentaje_ejecucion_global": 100.16,
+  "gasto_total_por_habitante": 883813.59,
+  "areas_analizadas": 21,
+  "archivo_jurisdicciones": "/home/luistiscornia/apps/presupuesto/salida/billetera_ciudadana_jurisdicciones_2025.csv",
+  "archivo_objeto": "/home/luistiscornia/apps/presupuesto/salida/billetera_ciudadana_objeto_2025.csv"
+}

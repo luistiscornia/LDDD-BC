@@ -1,0 +1,86 @@
+﻿ejercicio,codigo_jurisdiccion,area_gobierno,nombre_oficial,icono,descripcion_area,presupuesto_proyectado_pesos,gasto_devengado_pesos,gasto_2024_pesos,variacion_interanual_pct,desvio_pesos,porcentaje_ejecucion,porcentaje_del_total_gastado,gasto_por_habitante_pesos,semaforo,explicacion_semaforo,diagnostico_tecnico,nota_normativa
+2025,08,Salud Pública,SECRETARIA DE SALUD PUBLICA,🏥,"Red de hospitales municipales (HECA, Vilela), centros de salud en barrios, SAME y medicamentos.",238240780000.0,233083000000.0,158862000000.0,46.7,-5157780000.0,97.84,25.6,226294.17,NORMAL,Ejecución alineada con las metas presupuestarias originales del municipio.,"**Ejecución Equilibrada:** El área mantuvo un ritmo de gasto prácticamente exacto respecto a la proyección anual oficial.
+
+**Comparativa 2024 vs 2025:** Variación interanual del +46.7%.",
+2025,07,Ambiente y Espacio Público,SECRETARIA DE AMBIENTE Y ESPACIO PUBLICO,🌳,"Higiene urbana, recolección de residuos, mantenimiento de parques, alumbrado y plazas.",192900746000.0,202819000000.0,128259000000.0,58.1,9918254000.0,105.14,22.28,196911.65,NORMAL,Ejecución alineada con las metas presupuestarias originales del municipio.,"**Ejecución Equilibrada:** El área mantuvo un ritmo de gasto prácticamente exacto respecto a la proyección anual oficial.
+
+**Comparativa 2024 vs 2025:** Variación interanual del +58.1%.","Norma 10748/2024 Art. 4: Art. 4 º .- Determínase que los gastos asociados al Subsidio derivado del Convenio
+con la Asociación Identidad Ecológica: Proyecto Mundo Aparte, serán absorbido..."
+2025,06,Obras Públicas,SECRETARIA DE OBRAS PUBLICAS,🏗️,"Pavimentación, cloacas, veredas, hidráulica y obras de infraestructura comunitaria.",112841102000.0,118499000000.0,50234000000.0,135.9,5657898000.0,105.01,13.02,115047.57,NORMAL,Ejecución alineada con las metas presupuestarias originales del municipio.,"**Ejecución Equilibrada:** El área mantuvo un ritmo de gasto prácticamente exacto respecto a la proyección anual oficial.
+
+**Comparativa 2024 vs 2025:** Variación interanual del +135.9%.","Norma 10748/2024 Art. 10: Art. 10º .- Determínase que los gastos asociados al plan de mejoramiento de la
+infraestructura en los Barrios San Francisquito, Toba y Banana, serán absorbidos
+..."
+2025,16,Movilidad y Transporte,SECRETARIA DE MOVILIDAD,🚌,"Transporte Urbano de Pasajeros (TUP), ciclovías, bicis públicas 'Mi Bici Tu Bici' e ingeniería vial.",51755693000.0,60425000000.0,39342000000.0,53.6,8669307000.0,116.75,6.64,58665.05,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Ampliación Presupuestaria Aprobada:** El gasto devengado final superó la proyección original debido a ampliaciones presupuestarias legítimas aprobadas por el Concejo Municipal o decretos de mayor recaudación.
+
+**Comparativa 2024 vs 2025:** Variación interanual del +53.6%.
+
+**Participación Comunal:** Absorbió el 6.64% del presupuesto municipal.",
+2025,09,Desarrollo Humano y Hábitat,SECRETARIA DE DESARROLLO HUMANO Y HABITAT,🍲,"Asistencia social, comedores, promoción comunitaria, infancias y hábitat vulnerable.",49333050000.0,48488000000.0,31640000000.0,53.2,-845050000.0,98.29,5.33,47075.73,NORMAL,Ejecución alineada con las metas presupuestarias originales del municipio.,"**Ejecución Equilibrada:** El área mantuvo un ritmo de gasto prácticamente exacto respecto a la proyección anual oficial.
+
+**Comparativa 2024 vs 2025:** Variación interanual del +53.2%.","Norma 10748/2024 Art. 3: Art. 3° .- Modificase la denominación de la actividad específica 15 ""Difusión,
+Capacitación y Promoción de Derechos de las Infancias"" del ""Programa 18
+Promoción..."
+2025,11,Cultura y Educación,SECRETARIA DE CULTURA Y EDUCACION,🎭,"Museos, bibliotecas, teatros municipales, escuelas de artes y festivales públicos.",30762117000.0,34207000000.0,21680000000.0,57.8,3444883000.0,111.2,3.76,33210.68,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Ampliación Presupuestaria Aprobada:** El gasto devengado final superó la proyección original debido a ampliaciones presupuestarias legítimas aprobadas por el Concejo Municipal o decretos de mayor recaudación.
+
+**Comparativa 2024 vs 2025:** Variación interanual del +57.8%.
+
+**Participación Comunal:** Absorbió el 3.76% del presupuesto municipal.","Norma 10748/2024 Art. 9: Art. 9º .- El Departamento Ejecutivo Municipal creará dentro de la Jurisdicción
+11 Secretaria de Cultura y Educación el programa presupuestario ""Programa de
+Pro..."
+2025,15,Control y Convivencia,SECRETARIA DE CONTROL Y CONVIVENCIA,👮,"Guardia Urbana Municipal, control de tránsito, fiscalización de comercios y convivencia.",44202241000.0,33208000000.0,21244000000.0,56.3,-10994241000.0,75.13,3.65,32240.78,SUBEJECUCION,Área con ritmo de ejecución inferior a la asignación original o partidas no comprometidas.,"**Subejecución Presupuestaria:** El área devengó menos de lo proyectado inicialmente. Esto puede originarse en partidas de inversión no comprometidas, demoras en contrataciones o reasignación de créditos hacia áreas prioritarias.
+
+**Comparativa 2024 vs 2025:** Variación interanual del +56.3%.",
+2025,05,Secretaría de Gobierno,SECRETARIA DE GOBIERNO,🤝,"Coordinación política interna, relaciones institucionales y seguridad ciudadana.",22008144000.0,31372000000.0,18993000000.0,65.2,9363856000.0,142.55,3.45,30458.25,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Ampliación Presupuestaria Aprobada:** El gasto devengado final superó la proyección original debido a ampliaciones presupuestarias legítimas aprobadas por el Concejo Municipal o decretos de mayor recaudación.
+
+**Comparativa 2024 vs 2025:** Variación interanual del +65.2%.
+
+**Participación Comunal:** Absorbió el 3.45% del presupuesto municipal.",
+2025,91,Obligaciones a Cargo del Tesoro,OBLIGACIONES A CARGO DEL TESORO,🛡️,"Aportes patronales generales, subsidios a entidades (ej. Bomberos) y fondos no asignables.",35743489000.0,29912000000.0,,,-5831489000.0,83.69,3.29,29040.78,SUBEJECUCION,Área con ritmo de ejecución inferior a la asignación original o partidas no comprometidas.,"**Subejecución Presupuestaria:** El área devengó menos de lo proyectado inicialmente. Esto puede originarse en partidas de inversión no comprometidas, demoras en contrataciones o reasignación de créditos hacia áreas prioritarias.","Norma 10748/2024 Art. 1: Artículo 1 º .- El Departamento Ejecutivo Municipal incrementará dentro de la
+Jurisdicción 91 Obligaciones a Cargo del Tesoro en la partida 05.05.06.01 Subsidio..."
+2025,90,Servicio de la Deuda Pública,SERVICIO DE LA DEUDA PUBLICA,📉,Pago de intereses y amortización de deudas y convenios financieros del municipio.,40155584000.0,27854000000.0,,,-12301584000.0,69.37,3.06,27042.72,SUBEJECUCION,Área con ritmo de ejecución inferior a la asignación original o partidas no comprometidas.,"**Subejecución Presupuestaria:** El área devengó menos de lo proyectado inicialmente. Esto puede originarse en partidas de inversión no comprometidas, demoras en contrataciones o reasignación de créditos hacia áreas prioritarias.",
+2025,01,Concejo Municipal,CONCEJO MUNICIPAL,🏛️,"Poder Legislativo de la ciudad, elaboración y votación de ordenanzas municipales.",18980000000.0,27445000000.0,16673000000.0,64.6,8465000000.0,144.6,3.01,26645.63,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Actualización Institucional del Concejo:** El presupuesto proyectado fijó una base previa que luego se amplió por ordenanzas de crédito vigente para absorber acuerdos paritarios y gastos de funcionamiento legislativo.
+
+**Evolución Histórica:** En 2024 devengó $ 16.67 B y en 2025 $ 27.45 B (variación interanual de +64.6%).
+
+**Peso en la Ciudad:** Representó el **3.01%** del gasto total municipal ($ 26,646 por habitante).",
+2025,12,Cercanía y Gestión Ciudadana,SECRETARIA DE CERCANIA Y GESTION CIUDADANA,📍,"Centros Municipales de Distrito (CMD), atención al vecino y descentralización barrial.",27980524000.0,16190000000.0,11425000000.0,41.7,-11790524000.0,57.86,1.78,15718.45,SUBEJECUCION,Área con ritmo de ejecución inferior a la asignación original o partidas no comprometidas.,"**Subejecución Presupuestaria:** El área devengó menos de lo proyectado inicialmente. Esto puede originarse en partidas de inversión no comprometidas, demoras en contrataciones o reasignación de créditos hacia áreas prioritarias.
+
+**Comparativa 2024 vs 2025:** Variación interanual del +41.7%.",
+2025,18,Deporte y Turismo,SECRETARIA DE DEPORTE Y TURISMO,⚽,"Polideportivos municipales, colonias de verano, eventos deportivos y promoción turística.",8421834000.0,11001000000.0,7027000000.0,56.6,2579166000.0,130.62,1.21,10680.58,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Ampliación Presupuestaria Aprobada:** El gasto devengado final superó la proyección original debido a ampliaciones presupuestarias legítimas aprobadas por el Concejo Municipal o decretos de mayor recaudación.
+
+**Comparativa 2024 vs 2025:** Variación interanual del +56.6%.
+
+**Participación Comunal:** Absorbió el 1.21% del presupuesto municipal.","Norma 10748/2024 Art. 8: Art. 8° .- El Departamento Ejecutivo Municipal creará dentro de la Jurisdicción
+18 Secretaría de Deporte y Turismo el programa presupuestario ""Llegar"" cuya
+fina..."
+2025,03,Hacienda y Finanzas,SECRETARIA DE HACIENDA Y ECONOMIA,💳,"Recaudación de tasas, administración financiera, tesorería y contabilidad municipal.",7938477000.0,9173000000.0,6578000000.0,39.4,1234523000.0,115.55,1.01,8905.83,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Ampliación Presupuestaria Aprobada:** El gasto devengado final superó la proyección original debido a ampliaciones presupuestarias legítimas aprobadas por el Concejo Municipal o decretos de mayor recaudación.
+
+**Comparativa 2024 vs 2025:** Variación interanual del +39.4%.
+
+**Participación Comunal:** Absorbió el 1.01% del presupuesto municipal.",
+2025,20,Jefatura de Gabinete,JEFATURA DE GABINETE,📋,Coordinación estratégica del gabinete municipal y seguimiento de metas de gestión.,8066578000.0,5994000000.0,4282000000.0,40.0,-2072578000.0,74.31,0.66,5819.42,SUBEJECUCION,Área con ritmo de ejecución inferior a la asignación original o partidas no comprometidas.,"**Reasignación Operativa a Intendencia:** El área registró subejecución nominal porque parte de sus contrataciones, servicios o ceremonial fueron centralizados y devengados bajo la firma directa del Departamento Ejecutivo (Cód. 02).
+
+**Balance del Núcleo:** Al sumar Intendencia + Gabinete + Secretaría General, el grupo conjunto ejecutó el **103.3%**.",
+2025,19,"Igualdad, Género y DDHH","SECRETARIA DE IGUALDAD,GENERO Y DERECHOS HUMANOS",💜,"Atención integral de violencia de género, centros de protección y memoria comunitaria.",6492796000.0,5818000000.0,3337000000.0,74.3,-674796000.0,89.61,0.64,5648.54,NORMAL,Ejecución alineada con las metas presupuestarias originales del municipio.,"**Ejecución Equilibrada:** El área mantuvo un ritmo de gasto prácticamente exacto respecto a la proyección anual oficial.
+
+**Comparativa 2024 vs 2025:** Variación interanual del +74.3%.",
+2025,02,Intendencia y Despacho Ejecutivo,DEPARTAMENTO EJECUTIVO,🏢,Despacho del Intendente y conducción general del municipio.,1703169000.0,5266000000.0,3857000000.0,36.5,3562831000.0,309.19,0.58,5112.62,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Efecto Vasos Comunicantes (Núcleo de Intendencia):** El Despacho del Intendente no opera de forma aislada. Al evaluarlo en conjunto con Jefatura de Gabinete (Cód. 20, que varió en $ -2.07 B) y Secretaría General (Cód. 21, que ejecutó solo el 24.1% de lo previsto con desvío de $ -1.12 B), el Núcleo de Intendencia completo devengó $ 11.62 B sobre $ 11.24 B proyectados (**103.3% conjunto**). Se produjo una centralización de partidas operativas bajo la firma del Ejecutivo.
+
+**Crédito Vigente vs. Inicial:** El informe oficial municipal de 2025 publica el gasto devengado final, omitiendo la columna de Crédito Vigente ampliado legalmente durante el año por el Concejo Municipal (ordenanzas de incremento de libre disponibilidad y decretos de mayor recaudación inflacionaria).
+
+**Evolución Histórica:** En 2024 devengó $ 3.86 B y en 2025 $ 5.27 B (variación interanual de +36.5%, compatible con la pauta de paritarias y costos operativos).
+
+**Peso Real en la Ciudad:** Representó el **0.58%** del gasto total de Rosario ($ 5,113 anuales por habitante).",
+2025,04,Planeamiento Urbano,SECRETARIA DE PLANEAMIENTO,📐,"Diseño territorial de la ciudad, código urbano y permisos de edificación.",4205146000.0,4252000000.0,2965000000.0,43.4,46854000.0,101.11,0.47,4128.16,NORMAL,Ejecución alineada con las metas presupuestarias originales del municipio.,"**Ejecución Equilibrada:** El área mantuvo un ritmo de gasto prácticamente exacto respecto a la proyección anual oficial.
+
+**Comparativa 2024 vs 2025:** Variación interanual del +43.4%.",
+2025,10,Desarrollo Económico y Empleo,SECRETARIA DE DESARROLLO ECONOMICO Y EMPLEO,📈,"Capacitación laboral, ferias populares, apoyo a comercios, cooperativas y PyMEs.",3529150000.0,3222000000.0,2042000000.0,57.8,-307150000.0,91.3,0.35,3128.16,NORMAL,Ejecución alineada con las metas presupuestarias originales del municipio.,"**Ejecución Equilibrada:** El área mantuvo un ritmo de gasto prácticamente exacto respecto a la proyección anual oficial.
+
+**Comparativa 2024 vs 2025:** Variación interanual del +57.8%.",
+2025,13,Tribunal de Cuentas,TRIBUNAL MUNICIPAL DE CUENTAS,⚖️,Control externo de la legalidad de los gastos y rendición de cuentas municipales.,2105430000.0,1744000000.0,1204000000.0,44.9,-361430000.0,82.83,0.19,1693.2,SUBEJECUCION,Área con ritmo de ejecución inferior a la asignación original o partidas no comprometidas.,"**Subejecución Presupuestaria:** El área devengó menos de lo proyectado inicialmente. Esto puede originarse en partidas de inversión no comprometidas, demoras en contrataciones o reasignación de créditos hacia áreas prioritarias.
+
+**Comparativa 2024 vs 2025:** Variación interanual del +44.9%.",
+2025,21,Secretaría General,SECRETARIA GENERAL DE INTENDENCIA,🗄️,"Protocolo, despacho general y soporte logístico a la intendencia.",1475179000.0,356000000.0,154000000.0,131.2,-1119179000.0,24.13,0.04,345.63,SUBEJECUCION,Área con ritmo de ejecución inferior a la asignación original o partidas no comprometidas.,"**Reasignación Operativa a Intendencia:** El área registró subejecución nominal porque parte de sus contrataciones, servicios o ceremonial fueron centralizados y devengados bajo la firma directa del Departamento Ejecutivo (Cód. 02).
+
+**Balance del Núcleo:** Al sumar Intendencia + Gabinete + Secretaría General, el grupo conjunto ejecutó el **103.3%**.",

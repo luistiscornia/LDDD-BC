@@ -1,0 +1,17 @@
+datos_crudos/*
+!datos_crudos/manifiesto_ingesta.json
+.venv/
+presupuesto_/
+__pycache__/
+*.pyc
+*.log
+nohup.out
+*.bak
+*.bak2
+*.tar
+*.zip
+.streamlit/secrets.toml
+.env
+.DS_Store
+salida/presupuesto_consolidado_total.csv
+datos_procesados/

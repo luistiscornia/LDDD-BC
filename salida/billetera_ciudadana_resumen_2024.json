@@ -1,0 +1,12 @@
+{
+  "ejercicio": "2024",
+  "ciudad": "Municipalidad de Rosario",
+  "poblacion_estimada": 1030000,
+  "presupuesto_total_pesos": 374402373000.0,
+  "gasto_total_devengado_pesos": 529798000000.0,
+  "porcentaje_ejecucion_global": 141.5,
+  "gasto_total_por_habitante": 514366.99,
+  "areas_analizadas": 21,
+  "archivo_jurisdicciones": "/home/luistiscornia/apps/presupuesto/salida/billetera_ciudadana_jurisdicciones_2024.csv",
+  "archivo_objeto": "/home/luistiscornia/apps/presupuesto/salida/billetera_ciudadana_objeto_2024.csv"
+}

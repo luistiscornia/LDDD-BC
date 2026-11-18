@@ -1,0 +1,25 @@
+{
+  "version_esquema": "2.0",
+  "version_extractor": "2.1",
+  "formato_importes": "1.234.567,89",
+  "ejercicio": 2025,
+  "naturaleza_documento": "PROYECTO_DE_PRESUPUESTO",
+  "documento": "Presupuesto 2025.pdf",
+  "documento_sha256": "523950d389ca6957e304e5d3b5b9f3003e08dd6d6d310a58f5877a2ab857c688",
+  "paginas": 1038,
+  "filas": 13224,
+  "celdas": 70902,
+  "estados_monto": {
+    "AUSENTE": 43637,
+    "OK": 27265
+  },
+  "cobertura": {
+    "EXTRAIDA": 852,
+    "EXCLUIDA": 186
+  },
+  "incidencias": {},
+  "importes_pdf_verificados": 27265,
+  "importes_recuperados_verificados": 27265,
+  "extraccion_sin_errores": true,
+  "nota": "Los cuadros son vistas diferentes; no sumar todo el CSV. Los nulos del PDF no se imputan. Las discrepancias del documento se conservan."
+}

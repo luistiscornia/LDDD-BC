@@ -1,0 +1,111 @@
+{
+  "fecha_ingesta": "2026-11-15T01:41:22.733057+00:00",
+  "presupuestos": [
+    {
+      "url": "https://www.rosario.gob.ar/inicio/sites/default/files/2025-12/Proyecto%20Presupuesto%202026.pdf",
+      "destino": "/home/luistiscornia/apps/presupuesto/datos_crudos/presupuestos/Proyecto Presupuesto 2026.pdf",
+      "nombre": "Proyecto Presupuesto 2026.pdf",
+      "estado": "OMITIDO_IDENTICO",
+      "bytes": 7473473,
+      "sha256": "1c8b788684d8045d15082a201049646c712c6fe5cd38572a5a4ec74a84c1c75b",
+      "error": null,
+      "ejercicio": "2026"
+    },
+    {
+      "url": "https://www.rosario.gob.ar/inicio/sites/default/files/2026-08/Presupuesto%202025.pdf",
+      "destino": "/home/luistiscornia/apps/presupuesto/datos_crudos/presupuestos/Presupuesto 2025.pdf",
+      "nombre": "Presupuesto 2025.pdf",
+      "estado": "OMITIDO_IDENTICO",
+      "bytes": 6187007,
+      "sha256": "523950d389ca6957e304e5d3b5b9f3003e08dd6d6d310a58f5877a2ab857c688",
+      "error": null,
+      "ejercicio": "2025"
+    },
+    {
+      "url": "https://www.rosario.gob.ar/inicio/sites/default/files/2026-08/Presupuesto%202024.pdf",
+      "destino": "/home/luistiscornia/apps/presupuesto/datos_crudos/presupuestos/Presupuesto 2024.pdf",
+      "nombre": "Presupuesto 2024.pdf",
+      "estado": "OMITIDO_IDENTICO",
+      "bytes": 8118947,
+      "sha256": "8a9f741da93981afee9bd6eb9e7efe50ac3193b034ae237375de614e6d7243db",
+      "error": null,
+      "ejercicio": "2024"
+    },
+    {
+      "url": "https://www.rosario.gob.ar/inicio/sites/default/files/2026-08/Presupuesto%202023.pdf",
+      "destino": "/home/luistiscornia/apps/presupuesto/datos_crudos/presupuestos/Presupuesto 2023.pdf",
+      "nombre": "Presupuesto 2023.pdf",
+      "estado": "OMITIDO_IDENTICO",
+      "bytes": 5914012,
+      "sha256": "f61a346692ae40c77d8d6baf2adb238a060af0154837ad0ed89ab992b310308f",
+      "error": null,
+      "ejercicio": "2023"
+    },
+    {
+      "url": "https://www.rosario.gob.ar/inicio/sites/default/files/2026-08/Presupuesto%202022.pdf",
+      "destino": "/home/luistiscornia/apps/presupuesto/datos_crudos/presupuestos/Presupuesto 2022.pdf",
+      "nombre": "Presupuesto 2022.pdf",
+      "estado": "OMITIDO_IDENTICO",
+      "bytes": 4906984,
+      "sha256": "77afa0acc22142396744c19be3dbd262974062ddfe65320e1eebf0e09a98301a",
+      "error": null,
+      "ejercicio": "2022"
+    }
+  ],
+  "ejecucion": [],
+  "normativa": [
+    {
+      "url": "https://www.rosario.gob.ar/normativa/verArchivo?tipo=pdf&id=239429",
+      "destino": "/home/luistiscornia/apps/presupuesto/datos_crudos/normativa/normativa_239429_10747_2024.pdf",
+      "nombre": "normativa_239429_10747_2024.pdf",
+      "estado": "OMITIDO_IDENTICO",
+      "bytes": 1151901,
+      "sha256": "46844464eef3dac2a34d22c42d6a03be46f7874670e7caf772e56f559e3d7d0a",
+      "error": null,
+      "ejercicio": "2025",
+      "norma": "Ordenanza 10.747/2024",
+      "tipo_norma": "APROBACION"
+    },
+    {
+      "url": "https://www.rosario.gob.ar/normativa/verArchivo?tipo=pdf&id=239430",
+      "destino": "/home/luistiscornia/apps/presupuesto/datos_crudos/normativa/normativa_239430_10748_2024.pdf",
+      "nombre": "normativa_239430_10748_2024.pdf",
+      "estado": "OMITIDO_IDENTICO",
+      "bytes": 1025191,
+      "sha256": "fbca38970d17130201c2475861f670cbed1f5b5525a2e98d63423d2d55e53e86",
+      "error": null,
+      "ejercicio": "2025",
+      "norma": "Ordenanza 10.748/2024",
+      "tipo_norma": "MODIFICACION"
+    },
+    {
+      "url": "https://www.rosario.gob.ar/normativa/verArchivo?tipo=pdf&id=255397",
+      "destino": "/home/luistiscornia/apps/presupuesto/datos_crudos/normativa/normativa_255397_10871_2025.pdf",
+      "nombre": "normativa_255397_10871_2025.pdf",
+      "estado": "OMITIDO_IDENTICO",
+      "bytes": 325625,
+      "sha256": "eda1d59a36226c3f57075a874007539c95b5b8f5a8cb1ae16bd1bcb56d59552f",
+      "error": null,
+      "ejercicio": "2026",
+      "norma": "Ordenanza 10.871/2025",
+      "tipo_norma": "APROBACION"
+    },
+    {
+      "url": "https://www.rosario.gob.ar/normativa/verArchivo?tipo=pdf&id=255402",
+      "destino": "/home/luistiscornia/apps/presupuesto/datos_crudos/normativa/normativa_255402_10873_2025.pdf",
+      "nombre": "normativa_255402_10873_2025.pdf",
+      "estado": "OMITIDO_IDENTICO",
+      "bytes": 85126,
+      "sha256": "0b2194bec7ded01e83bcadef04eddf9c9f0be263316452daa6a442e1b1068960",
+      "error": null,
+      "ejercicio": "2026",
+      "norma": "Ordenanza 10.873/2025",
+      "tipo_norma": "MODIFICACION"
+    }
+  ],
+  "resumen": {
+    "descargados": 0,
+    "omitidos": 9,
+    "errores": 0
+  }
+}

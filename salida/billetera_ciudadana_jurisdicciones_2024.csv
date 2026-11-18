@@ -1,0 +1,98 @@
+﻿ejercicio,codigo_jurisdiccion,area_gobierno,nombre_oficial,icono,descripcion_area,presupuesto_proyectado_pesos,gasto_devengado_pesos,gasto_2023_pesos,variacion_interanual_pct,desvio_pesos,porcentaje_ejecucion,porcentaje_del_total_gastado,gasto_por_habitante_pesos,semaforo,explicacion_semaforo,diagnostico_tecnico,nota_normativa
+2024,08,Salud Pública,SECRETARIA DE SALUD PUBLICA,🏥,"Red de hospitales municipales (HECA, Vilela), centros de salud en barrios, SAME y medicamentos.",97958631000.0,158862000000.0,53220000000.0,198.5,60903369000.0,162.17,29.99,154234.95,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Ampliación Presupuestaria Aprobada:** El gasto devengado final superó la proyección original debido a ampliaciones presupuestarias legítimas aprobadas por el Concejo Municipal o decretos de mayor recaudación.
+
+**Comparativa 2023 vs 2024:** Variación interanual del +198.5%.
+
+**Participación Comunal:** Absorbió el 29.99% del presupuesto municipal.",
+2024,07,Ambiente y Espacio Público,SECRETARIA DE AMBIENTE Y ESPACIO PUBLICO,🌳,"Higiene urbana, recolección de residuos, mantenimiento de parques, alumbrado y plazas.",79407051000.0,128259000000.0,44037000000.0,191.3,48851949000.0,161.52,24.21,124523.3,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Ampliación Presupuestaria Aprobada:** El gasto devengado final superó la proyección original debido a ampliaciones presupuestarias legítimas aprobadas por el Concejo Municipal o decretos de mayor recaudación.
+
+**Comparativa 2023 vs 2024:** Variación interanual del +191.3%.
+
+**Participación Comunal:** Absorbió el 24.21% del presupuesto municipal.",
+2024,06,Obras Públicas,SECRETARIA DE OBRAS PUBLICAS,🏗️,"Pavimentación, cloacas, veredas, hidráulica y obras de infraestructura comunitaria.",45435487000.0,50234000000.0,18906000000.0,165.7,4798513000.0,110.56,9.48,48770.87,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Ampliación Presupuestaria Aprobada:** El gasto devengado final superó la proyección original debido a ampliaciones presupuestarias legítimas aprobadas por el Concejo Municipal o decretos de mayor recaudación.
+
+**Comparativa 2023 vs 2024:** Variación interanual del +165.7%.
+
+**Participación Comunal:** Absorbió el 9.48% del presupuesto municipal.",
+2024,16,Movilidad y Transporte,SECRETARIA DE MOVILIDAD,🚌,"Transporte Urbano de Pasajeros (TUP), ciclovías, bicis públicas 'Mi Bici Tu Bici' e ingeniería vial.",22016531000.0,39342000000.0,14585000000.0,169.7,17325469000.0,178.69,7.43,38196.12,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Ampliación Presupuestaria Aprobada:** El gasto devengado final superó la proyección original debido a ampliaciones presupuestarias legítimas aprobadas por el Concejo Municipal o decretos de mayor recaudación.
+
+**Comparativa 2023 vs 2024:** Variación interanual del +169.7%.
+
+**Participación Comunal:** Absorbió el 7.43% del presupuesto municipal.",
+2024,09,Desarrollo Humano y Hábitat,SECRETARIA DE DESARROLLO HUMANO Y HABITAT,🍲,"Asistencia social, comedores, promoción comunitaria, infancias y hábitat vulnerable.",19808936000.0,31640000000.0,11034000000.0,186.8,11831064000.0,159.73,5.97,30718.45,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Ampliación Presupuestaria Aprobada:** El gasto devengado final superó la proyección original debido a ampliaciones presupuestarias legítimas aprobadas por el Concejo Municipal o decretos de mayor recaudación.
+
+**Comparativa 2023 vs 2024:** Variación interanual del +186.8%.
+
+**Participación Comunal:** Absorbió el 5.97% del presupuesto municipal.",
+2024,11,Cultura y Educación,SECRETARIA DE CULTURA Y EDUCACION,🎭,"Museos, bibliotecas, teatros municipales, escuelas de artes y festivales públicos.",12925014000.0,21680000000.0,7232000000.0,199.8,8754986000.0,167.74,4.09,21048.54,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Ampliación Presupuestaria Aprobada:** El gasto devengado final superó la proyección original debido a ampliaciones presupuestarias legítimas aprobadas por el Concejo Municipal o decretos de mayor recaudación.
+
+**Comparativa 2023 vs 2024:** Variación interanual del +199.8%.
+
+**Participación Comunal:** Absorbió el 4.09% del presupuesto municipal.",
+2024,15,Control y Convivencia,SECRETARIA DE CONTROL Y CONVIVENCIA,👮,"Guardia Urbana Municipal, control de tránsito, fiscalización de comercios y convivencia.",18017785000.0,21244000000.0,7462000000.0,184.7,3226215000.0,117.91,4.01,20625.24,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Ampliación Presupuestaria Aprobada:** El gasto devengado final superó la proyección original debido a ampliaciones presupuestarias legítimas aprobadas por el Concejo Municipal o decretos de mayor recaudación.
+
+**Comparativa 2023 vs 2024:** Variación interanual del +184.7%.
+
+**Participación Comunal:** Absorbió el 4.01% del presupuesto municipal.",
+2024,05,Secretaría de Gobierno,SECRETARIA DE GOBIERNO,🤝,"Coordinación política interna, relaciones institucionales y seguridad ciudadana.",9643547000.0,18993000000.0,6607000000.0,187.5,9349453000.0,196.95,3.58,18439.81,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Ampliación Presupuestaria Aprobada:** El gasto devengado final superó la proyección original debido a ampliaciones presupuestarias legítimas aprobadas por el Concejo Municipal o decretos de mayor recaudación.
+
+**Comparativa 2023 vs 2024:** Variación interanual del +187.5%.
+
+**Participación Comunal:** Absorbió el 3.58% del presupuesto municipal.",
+2024,01,Concejo Municipal,CONCEJO MUNICIPAL,🏛️,"Poder Legislativo de la ciudad, elaboración y votación de ordenanzas municipales.",7997500000.0,16673000000.0,6192000000.0,169.3,8675500000.0,208.48,3.15,16187.38,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Actualización Institucional del Concejo:** El presupuesto proyectado fijó una base previa que luego se amplió por ordenanzas de crédito vigente para absorber acuerdos paritarios y gastos de funcionamiento legislativo.
+
+**Evolución Histórica:** En 2023 devengó $ 6.19 B y en 2024 $ 16.67 B (variación interanual de +169.3%).
+
+**Peso en la Ciudad:** Representó el **3.15%** del gasto total municipal ($ 16,187 por habitante).",
+2024,12,Cercanía y Gestión Ciudadana,SECRETARIA DE CERCANIA Y GESTION CIUDADANA,📍,"Centros Municipales de Distrito (CMD), atención al vecino y descentralización barrial.",11713808000.0,11425000000.0,5679000000.0,101.2,-288808000.0,97.53,2.16,11092.23,NORMAL,Ejecución alineada con las metas presupuestarias originales del municipio.,"**Ejecución Equilibrada:** El área mantuvo un ritmo de gasto prácticamente exacto respecto a la proyección anual oficial.
+
+**Comparativa 2023 vs 2024:** Variación interanual del +101.2%.",
+2024,18,Deporte y Turismo,SECRETARIA DE DEPORTE Y TURISMO,⚽,"Polideportivos municipales, colonias de verano, eventos deportivos y promoción turística.",3487937000.0,7027000000.0,2375000000.0,195.9,3539063000.0,201.47,1.33,6822.33,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Ampliación Presupuestaria Aprobada:** El gasto devengado final superó la proyección original debido a ampliaciones presupuestarias legítimas aprobadas por el Concejo Municipal o decretos de mayor recaudación.
+
+**Comparativa 2023 vs 2024:** Variación interanual del +195.9%.
+
+**Participación Comunal:** Absorbió el 1.33% del presupuesto municipal.",
+2024,03,Hacienda y Finanzas,SECRETARIA DE HACIENDA Y ECONOMIA,💳,"Recaudación de tasas, administración financiera, tesorería y contabilidad municipal.",3607233000.0,6578000000.0,2349000000.0,180.0,2970767000.0,182.36,1.24,6386.41,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Ampliación Presupuestaria Aprobada:** El gasto devengado final superó la proyección original debido a ampliaciones presupuestarias legítimas aprobadas por el Concejo Municipal o decretos de mayor recaudación.
+
+**Comparativa 2023 vs 2024:** Variación interanual del +180.0%.
+
+**Participación Comunal:** Absorbió el 1.24% del presupuesto municipal.",
+2024,20,Jefatura de Gabinete,JEFATURA DE GABINETE,📋,Coordinación estratégica del gabinete municipal y seguimiento de metas de gestión.,3650759000.0,4282000000.0,,,631241000.0,117.29,0.81,4157.28,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Reasignación Operativa a Intendencia:** El área registró subejecución nominal porque parte de sus contrataciones, servicios o ceremonial fueron centralizados y devengados bajo la firma directa del Departamento Ejecutivo (Cód. 02).
+
+**Balance del Núcleo:** Al sumar Intendencia + Gabinete + Secretaría General, el grupo conjunto ejecutó el **150.3%**.",
+2024,02,Intendencia y Despacho Ejecutivo,DEPARTAMENTO EJECUTIVO,🏢,Despacho del Intendente y conducción general del municipio.,860872000.0,3857000000.0,1378000000.0,179.9,2996128000.0,448.03,0.73,3744.66,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Efecto Vasos Comunicantes (Núcleo de Intendencia):** El Despacho del Intendente no opera de forma aislada. Al evaluarlo en conjunto con Jefatura de Gabinete (Cód. 20, que varió en $ +0.63 B) y Secretaría General (Cód. 21, que ejecutó solo el 15.3% de lo previsto con desvío de $ -0.85 B), el Núcleo de Intendencia completo devengó $ 8.29 B sobre $ 5.52 B proyectados (**150.3% conjunto**). Se produjo una centralización de partidas operativas bajo la firma del Ejecutivo.
+
+**Crédito Vigente vs. Inicial:** El informe oficial municipal de 2024 publica el gasto devengado final, omitiendo la columna de Crédito Vigente ampliado legalmente durante el año por el Concejo Municipal (ordenanzas de incremento de libre disponibilidad y decretos de mayor recaudación inflacionaria).
+
+**Evolución Histórica:** En 2023 devengó $ 1.38 B y en 2024 $ 3.86 B (variación interanual de +179.9%, compatible con la pauta de paritarias y costos operativos).
+
+**Peso Real en la Ciudad:** Representó el **0.73%** del gasto total de Rosario ($ 3,745 anuales por habitante).",
+2024,19,"Igualdad, Género y DDHH","SECRETARIA DE IGUALDAD,GENERO Y DERECHOS HUMANOS",💜,"Atención integral de violencia de género, centros de protección y memoria comunitaria.",2611906000.0,3337000000.0,1040000000.0,220.9,725094000.0,127.76,0.63,3239.81,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Ampliación Presupuestaria Aprobada:** El gasto devengado final superó la proyección original debido a ampliaciones presupuestarias legítimas aprobadas por el Concejo Municipal o decretos de mayor recaudación.
+
+**Comparativa 2023 vs 2024:** Variación interanual del +220.9%.
+
+**Participación Comunal:** Absorbió el 0.63% del presupuesto municipal.",
+2024,04,Planeamiento Urbano,SECRETARIA DE PLANEAMIENTO,📐,"Diseño territorial de la ciudad, código urbano y permisos de edificación.",2016879000.0,2965000000.0,1288000000.0,130.2,948121000.0,147.01,0.56,2878.64,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Ampliación Presupuestaria Aprobada:** El gasto devengado final superó la proyección original debido a ampliaciones presupuestarias legítimas aprobadas por el Concejo Municipal o decretos de mayor recaudación.
+
+**Comparativa 2023 vs 2024:** Variación interanual del +130.2%.
+
+**Participación Comunal:** Absorbió el 0.56% del presupuesto municipal.",
+2024,10,Desarrollo Económico y Empleo,SECRETARIA DE DESARROLLO ECONOMICO Y EMPLEO,📈,"Capacitación laboral, ferias populares, apoyo a comercios, cooperativas y PyMEs.",1687216000.0,2042000000.0,861000000.0,137.2,354784000.0,121.03,0.39,1982.52,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Ampliación Presupuestaria Aprobada:** El gasto devengado final superó la proyección original debido a ampliaciones presupuestarias legítimas aprobadas por el Concejo Municipal o decretos de mayor recaudación.
+
+**Comparativa 2023 vs 2024:** Variación interanual del +137.2%.
+
+**Participación Comunal:** Absorbió el 0.39% del presupuesto municipal.",
+2024,13,Tribunal de Cuentas,TRIBUNAL MUNICIPAL DE CUENTAS,⚖️,Control externo de la legalidad de los gastos y rendición de cuentas municipales.,807421000.0,1204000000.0,406000000.0,196.6,396579000.0,149.12,0.23,1168.93,AMPLIACION_CREDITO,Área con ampliaciones presupuestarias aprobadas durante el ejercicio (inflación y mayor recaudación).,"**Ampliación Presupuestaria Aprobada:** El gasto devengado final superó la proyección original debido a ampliaciones presupuestarias legítimas aprobadas por el Concejo Municipal o decretos de mayor recaudación.
+
+**Comparativa 2023 vs 2024:** Variación interanual del +196.6%.
+
+**Participación Comunal:** Absorbió el 0.23% del presupuesto municipal.",
+2024,21,Secretaría General,SECRETARIA GENERAL DE INTENDENCIA,🗄️,"Protocolo, despacho general y soporte logístico a la intendencia.",1004262000.0,154000000.0,,,-850262000.0,15.33,0.03,149.51,SUBEJECUCION,Área con ritmo de ejecución inferior a la asignación original o partidas no comprometidas.,"**Reasignación Operativa a Intendencia:** El área registró subejecución nominal porque parte de sus contrataciones, servicios o ceremonial fueron centralizados y devengados bajo la firma directa del Departamento Ejecutivo (Cód. 02).
+
+**Balance del Núcleo:** Al sumar Intendencia + Gabinete + Secretaría General, el grupo conjunto ejecutó el **150.3%**.",
+2024,90,Servicio de la Deuda Pública,SERVICIO DE LA DEUDA PUBLICA,📉,Pago de intereses y amortización de deudas y convenios financieros del municipio.,14326276000.0,0.0,3050000000.0,-100.0,-14326276000.0,0.0,0.0,0.0,SUBEJECUCION,Área con ritmo de ejecución inferior a la asignación original o partidas no comprometidas.,"**Subejecución Presupuestaria:** El área devengó menos de lo proyectado inicialmente. Esto puede originarse en partidas de inversión no comprometidas, demoras en contrataciones o reasignación de créditos hacia áreas prioritarias.
+
+**Comparativa 2023 vs 2024:** Variación interanual del -100.0%.",
+2024,91,Obligaciones a Cargo del Tesoro,OBLIGACIONES A CARGO DEL TESORO,🛡️,"Aportes patronales generales, subsidios a entidades (ej. Bomberos) y fondos no asignables.",15417322000.0,0.0,7838000000.0,-100.0,-15417322000.0,0.0,0.0,0.0,SUBEJECUCION,Área con ritmo de ejecución inferior a la asignación original o partidas no comprometidas.,"**Subejecución Presupuestaria:** El área devengó menos de lo proyectado inicialmente. Esto puede originarse en partidas de inversión no comprometidas, demoras en contrataciones o reasignación de créditos hacia áreas prioritarias.
+
+**Comparativa 2023 vs 2024:** Variación interanual del -100.0%.",

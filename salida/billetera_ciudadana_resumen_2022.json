@@ -1,0 +1,12 @@
+{
+  "ejercicio": "2022",
+  "ciudad": "Municipalidad de Rosario",
+  "poblacion_estimada": 1030000,
+  "presupuesto_total_pesos": 69038356000.0,
+  "gasto_total_devengado_pesos": 83949000000.0,
+  "porcentaje_ejecucion_global": 121.6,
+  "gasto_total_por_habitante": 81503.88,
+  "areas_analizadas": 21,
+  "archivo_jurisdicciones": "/home/luistiscornia/apps/presupuesto/salida/billetera_ciudadana_jurisdicciones_2022.csv",
+  "archivo_objeto": "/home/luistiscornia/apps/presupuesto/salida/billetera_ciudadana_objeto_2022.csv"
+}
